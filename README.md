@@ -78,7 +78,7 @@ The application leverages IndexedDB for data persistence and uses service worker
 
 ## Deployment
 
-The application is deployed on Render. You can access the live application [here](#).
+The application is deployed on Render. You can access the live application [here](https://text-editor-jby0.onrender.com).
 
 ## License
 
@@ -90,8 +90,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Questions
 
-If you have any questions or issues, please contact me via GitHub: [Tristn Rohr](https://github.com/TristinRohr).
+If you have any questions or issues, please contact me via GitHub: [Tristn Rohr](https://github.com/TristinRohr)
 
----
-
-This README provides a clear and concise overview of your project, including instructions for installation, usage, and more. You can customize it further as needed!
+Thank you for visiting!!!
